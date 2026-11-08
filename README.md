@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Unit 16 연습</title><style>
 :root{--bg:#fafaf7;--fg:#1c1c1a;--card:#fff;--bd:#d8d8d0;--ac:#2a6f5c;--ok:#1b7a3d;--no:#b3261e;--mu:#6b6b64;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#161615;--fg:#ececE6;--card:#222220;--bd:#3a3a36;--ac:#6cc3a8;--ok:#62d08a;--no:#ff8a80;--mu:#9a9a92}}
